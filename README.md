@@ -3,7 +3,9 @@
 *Many thanks to [Stable Diffusion](<https://github.com/CompVis/stable-diffusion>) for their contributions and amazing work.
 
 [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://ommer-lab.com/research/latent-diffusion-models/)<br/>
-[Michael K. Teferras](https://mikeintoshsys.com) and GitHub: <a href="<https://github.com/MIKEINTOSHSYSTEMS>
+[Michael K. Teferra](https://github.com/MIKEINTOSHSYSTEMS/)\*,
+[MIKEINTOSH-SYSTEMS](https://mikeintoshsys.com)\*,
+
 [Robin Rombach](https://github.com/rromb)\*,
 [Andreas Blattmann](https://github.com/ablattmann)\*,
 [Dominik Lorenz](https://github.com/qp-qp)\,
